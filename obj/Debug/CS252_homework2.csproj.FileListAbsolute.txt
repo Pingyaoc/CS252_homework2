@@ -1,9 +1,0 @@
-c:\users\pingyao\documents\visual studio 2013\Projects\CS252_homework2\CS252_homework2\bin\Debug\CS252_homework2.exe.config
-c:\users\pingyao\documents\visual studio 2013\Projects\CS252_homework2\CS252_homework2\obj\Debug\CS252_homework2.csprojResolveAssemblyReference.cache
-c:\users\pingyao\documents\visual studio 2013\Projects\CS252_homework2\CS252_homework2\obj\Debug\CS252_homework2.Form1.resources
-c:\users\pingyao\documents\visual studio 2013\Projects\CS252_homework2\CS252_homework2\obj\Debug\CS252_homework2.Properties.Resources.resources
-c:\users\pingyao\documents\visual studio 2013\Projects\CS252_homework2\CS252_homework2\obj\Debug\CS252_homework2.csproj.GenerateResource.Cache
-C:\Users\Pingyao\Documents\Visual Studio 2013\Projects\CS252_homework2\CS252_homework2\bin\Debug\CS252_homework2.exe
-C:\Users\Pingyao\Documents\Visual Studio 2013\Projects\CS252_homework2\CS252_homework2\bin\Debug\CS252_homework2.pdb
-C:\Users\Pingyao\Documents\Visual Studio 2013\Projects\CS252_homework2\CS252_homework2\obj\Debug\CS252_homework2.exe
-C:\Users\Pingyao\Documents\Visual Studio 2013\Projects\CS252_homework2\CS252_homework2\obj\Debug\CS252_homework2.pdb
